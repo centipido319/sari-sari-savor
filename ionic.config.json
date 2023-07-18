@@ -1,0 +1,7 @@
+{
+  "name": "SariSariSavor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
